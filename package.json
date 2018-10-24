@@ -1,0 +1,15 @@
+{
+  "name": "lab-integridad",
+  "version": "1.0.0",
+  "description": "A lab exercise for the \"Telematics 2\" class at the Sergio Arboleda University.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaime Alonso",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  }
+}
